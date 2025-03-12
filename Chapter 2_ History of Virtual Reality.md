@@ -94,7 +94,7 @@ These are modern VR headsets that revolutionized consumer VR. Oculus Rift, devel
 Standalone VR headsets, like Oculus Quest, do not require a PC or external device for operation. They contain all the necessary hardware, making VR more accessible and portable.
 
 #### o) VR and Prospects:
-![VR-and-Prospects](VR-and-Prospects.png)
+![VR-and-Prospects](2/VR-and-Prospects.png)
 
 VR continues to evolve with advancements in technology, offering vast potential in various fields such as gaming, education, healthcare, training, and more. As technology improves, VR is becoming more immersive, affordable, and accessible to wider audiences, promising exciting prospects for its future applications and growth.
 

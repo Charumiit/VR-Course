@@ -79,7 +79,10 @@ So next time you step into a VR world or play your favorite game, take a moment 
 ## Procedure
 
 ### Simulation
-Play Video
+**Simulation**  
+[Watch the Simulation Video](https://youtu.be/we3jKi9AAiU)
+<iframe width="560" height="315" src="https://youtu.be/we3jKi9AAiU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ---
 

@@ -112,10 +112,14 @@ To execute a virtual reality project.
 
 ### Simulation
 - Make a simulation of virtual reality application.
+[Watch the Simulation Video](https://youtu.be/o6jzK7MnuLQ)
+<iframe width="560" height="315" src="https://youtu.be/o6jzK7MnuLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
 ### Post-Test
+[Watch the Simulation Video](https://youtu.be/0dsUTyQyHbg)
+<iframe width="560" height="315" src="https://youtu.be/0dsUTyQyHbg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 

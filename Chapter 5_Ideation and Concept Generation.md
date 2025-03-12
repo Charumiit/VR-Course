@@ -44,23 +44,29 @@ It’s essential that your VR concept aligns with the hardware capabilities avai
     b) Defining goals ✅  
     c) Exploring VR hardware
 
+---
+
 **Q2: Which of the following is NOT part of the "Research and Inspiration" stage?**  
     a) Benchmarking existing VR projects  
     b) Investigating VR hardware capabilities  
     c) Conducting brainstorming sessions ✅
+
+
+---
 
 **Q3: What is one key focus during brainstorming sessions for a VR project?**  
     a) Matching concepts to hardware limitations  
     b) Conducting multidisciplinary idea generation ✅  
     c) Measuring system performance
 
+
 ---
 
 ## **Procedure**
 
----
-
 ## **Simulation**
+[Watch the Simulation Video](https://youtu.be/pKzKMjOSyvQ)
+<iframe width="560" height="315" src="https://youtu.be/pKzKMjOSyvQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
